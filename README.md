@@ -13,12 +13,12 @@ Predictive models implicitly assume that everyone will keep behaving the same wa
 #### Predicts whether a customer will renew their product subscription
 
 Let us assume there are the following drivers we have already found:
-(1) customer discount
-(2) ad spending
-(3) customer’s monthly usage
-(4) last upgrade
-(5) bugs reported by a customer
-(6) interactions with a customer
-(7) sales calls with a customer
-(8) macroeconomic activity.
+1. customer discount
+2. ad spending
+3. customer’s monthly usage
+4. last upgrade
+5. bugs reported by a customer
+6. interactions with a customer
+7. sales calls with a customer
+8. macroeconomic activity.
 
