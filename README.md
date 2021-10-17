@@ -3,6 +3,7 @@
 Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, James Robins (2017)
 
 [Link to Paper](https://arxiv.org/abs/1608.00060)
+<br>
 [Link to documentation](https://docs.doubleml.org/stable/guide/basics.html)
 
 #### Additional Resources:
